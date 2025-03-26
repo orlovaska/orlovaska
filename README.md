@@ -19,7 +19,7 @@
   <h3>💻 &nbsp;About Me</h3>
   <p>
      👨‍💻 &nbsp; I am a frontend developer specializing in React <br>
-     👨‍🎓 &nbsp; Currently a 3rd-year student at the Higher School of Economics, specializing in software engineering <br>
+     👨‍🎓 &nbsp; Currently a 4th-year student at the Higher School of Economics, specializing in software engineering <br>
      🤔 &nbsp; Exploring new technologies and developing software solutions to our world's tech problems. <br>
      🌍 &nbsp; Based in Perm, Russia
   </p>
